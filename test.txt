@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 A
-=======
+
 m: testing...
->>>>>>> origin/dev_1.0_userB
+
